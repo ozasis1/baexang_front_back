@@ -1,2 +1,0 @@
-RewriteEngin off
-RewriteRule . index.php
